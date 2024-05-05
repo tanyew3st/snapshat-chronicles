@@ -34,7 +34,7 @@ if "OPENAI_API_KEY" not in os.environ:
     print(
         "You didn't set your OpenAI key to the OPENAI_API_KEY env var on the command line."
     )
-    os.environ["OPENAI_API_KEY"] = "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"
+    os.environ["OPENAI_API_KEY"] = ""
 client = OpenAI()
 
 app = Flask(__name__)
