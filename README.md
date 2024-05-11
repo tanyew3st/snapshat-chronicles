@@ -1,1 +1,1 @@
-# snapshat-chronicles
+# snapshot-chronicles
